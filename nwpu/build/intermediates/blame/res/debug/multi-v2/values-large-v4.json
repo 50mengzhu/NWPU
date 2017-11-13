@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\values-large-v4\\values-large-v4.xml",
+            "map": [
+                {
+                    "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\values-large\\ease_dimens.xml",
+                    "from": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "682,736",
+                        "endColumns": "52,53",
+                        "endOffsets": "730,785"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,53",
+                        "endOffsets": "103,157"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "map": [
+                {
+                    "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\values-large\\ease_dimens.xml",
+                    "from": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "682,736",
+                        "endColumns": "52,53",
+                        "endOffsets": "730,785"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,53",
+                        "endOffsets": "103,157"
+                    }
+                }
+            ]
+        }
+    ]
+}

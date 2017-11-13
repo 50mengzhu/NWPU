@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 不带圆角 白色背景 灰色边框 无下边框 长方体 -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item>
+        <shape>
+            <solid android:color="#FFFFFF" />
+
+            <stroke
+                android:width="1dp"
+                android:color="@color/divider_day" />
+        </shape>
+    </item>
+    <item android:top="1dp">
+        <shape>
+            <solid android:color="#FFFFFF" />
+
+            <stroke
+                android:width="1dp"
+                android:color="#ffffffff" />
+        </shape>
+    </item>
+
+</layer-list>

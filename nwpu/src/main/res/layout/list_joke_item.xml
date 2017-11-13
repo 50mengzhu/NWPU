@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/left_drawer_item_bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="12dp" >
+
+        <TextView
+            android:id="@+id/tv_joketitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:textColor="@color/item_title"
+            android:textSize="18sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tv_jokecontent"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textColor="#ff666666"
+            android:textSize="17sp" />
+
+        <ImageView
+            android:id="@+id/iv_jokeimg"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerInside" />
+
+        <LinearLayout
+            android:id="@+id/info_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="30.0dip"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="visible" >
+
+            <!-- 评论 -->
+
+            <TextView
+                android:id="@+id/comment_count"
+                style="@style/item_secondary_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_weight="0.0"
+                android:text="评论123"
+                android:visibility="gone" />
+
+            <View
+                android:layout_width="0.0dip"
+                android:layout_height="1.0dip"
+                android:layout_weight="1.0"
+                android:minWidth="8.0dip"
+                android:visibility="gone" />
+
+            <!-- 点击数 -->
+
+            <TextView
+                android:id="@+id/view_count"
+                style="@style/item_secondary_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.0"
+                android:text="阅读1111" />
+
+            <View
+                android:layout_width="0.0dip"
+                android:layout_height="1.0dip"
+                android:layout_weight="1.0"
+                android:minWidth="8.0dip"
+                android:visibility="gone" />
+
+            <!-- 点赞数 -->
+
+            <TextView
+                android:id="@+id/like_count"
+                style="@style/item_secondary_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.0"
+                android:text="点赞1111"
+                android:visibility="visible" />
+
+            <View
+                android:layout_width="0.0dip"
+                android:layout_height="1.0dip"
+                android:layout_weight="1.0"
+                android:minWidth="8.0dip"
+                android:visibility="gone" />
+
+            <!-- 发布时间 -->
+
+            <TextView
+                android:id="@+id/publish_time"
+                style="@style/item_secondary_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10.0dip"
+                android:layout_weight="0.0"
+                android:text="20小时前" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="6dp"
+        android:background="#ffdddddd" />
+
+</LinearLayout>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh" ng-app="main">
+<head>		
+	<meta charset="UTF-8">
+	<!--自适应界面,如果出现,在某些设备出现界面偏小的话,检查一下有没有加入这句 -->
+    <meta http-equiv="Content-type" name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width">
+    <link rel="stylesheet" href="../lib/bootstrap.min.css" />
+    <link rel="stylesheet" href="../lib/bootstrap-dialog.css" />
+    <link rel="stylesheet" href="../css/main.css" />
+    
+               
+	<script type="text/javascript" src="../lib/angular.js"></script>
+	<script type="text/javascript" src="../lib/angularjsLocalstorage.js"></script>
+	<script type="text/javascript" src="../lib/jquery.js"></script>
+	<script type="text/javascript" src="../lib/bootstrap.min.js"></script>
+	<script type="text/javascript" src="../lib/bootstrap-dialog.js"></script>
+	<script type="text/javascript" src="../js/commFunction.js"></script>
+	<script type="text/javascript" src="../js/projectEvaluateController.js"></script>
+    
+    <style type="text/css">
+		img:hover{cursor: pointer;}
+	</style>
+</head>
+<header >
+	<div class="nav-border navbar-top navbar-fixed-top text-center navbar-color">
+		<div class="pull-left" >
+			<a class="glyphicon glyphicon-chevron-left" ng-click="evaluate(list)" style="color:#FFF;margin: 12px 5px;font-size: 12px;text-align:center">返回</a>
+		</div>		
+		
+		<h4>项目评价</h4>
+	</div>	
+</header>
+
+<body style="margin-top: 40px;" ng-controller="ProjectevaluateCtrl"> 
+	<div class="container" style="margin-top: 50px;" ng-repeat="list in ProjectData">			
+			<dd ng-bind="list.name" style="color:#337AB7; font-size: 16px; text-align: center;"></dd>	
+			 <li class="li_style" style="border-color: #337AB7;">
+			 	<dd class="evaluate_total">整体评价：			 	
+				
+				<evaluate-one rating-value="EvaInfo.ratingVal" max="max" on-hover="onHover"
+					on-leave="onLeave" ng-model="ratingVal"></evaluate-one></dd>
+				<!--<div star rating-value="ratingVal" max="max" on-hover="onHover" 
+					on-leave="onLeave" ></div>-->						    
+			 	<dd class="evaluate_detail_content">内容：
+			 	<evaluate-two rating-value-content="EvaInfo.ratingValContent" max-content="maxContent"
+			 		on-hover-content="onHoverContent" on-leave-content="onLeaveContent"></evaluate-two></dd>
+			 	<dd class="evaluate_detail_form" style="margin-top: 0px;">形式：
+			 	<evaluate-four rating-value-form="EvaInfo.ratingValForm" max-form="maxForm" 
+			 		on-hover-form="onHoverForm" on-leave-form="onLeaveForm" ></evaluate-four></dd>
+			 	<dd class="evaluate_detail_get" style="margin-top: 0px;">收获：
+			 	<evaluate-three rating-value-got="EvaInfo.ratingValGot" max-got="maxGot"
+			 		on-hover-got="onHoverGot" on-leave-got="onLeaveGot"></evaluate-three></dd>
+			 	<dd class="evaluate_detail_add">添加评价详情：</dd>
+			 	<div>
+			 		<textarea class="evalueteContent" ng-model="EvaInfo.Evaluate" placeholder="期待您的评价^~^"></textarea>
+			 	</div>	
+			 	<input type="hidden" value="{{ratingVal}}" ng-model="EvaInfo.ratingValGot">
+			 	<input type="hidden" value="{{ratingValContent}}" ng-model="EvaInfo.ratingValGot">
+			 	<input type="hidden" value="{{ratingValGot}}" ng-model="EvaInfo.ratingValGot">
+			 	<input type="hidden" value="{{ratingValForm}}" ng-model="EvaInfo.ratingValGot">			 				 	
+			 </li>   
+	</div>
+	<div>
+		<a class="btn btn-primary"  ng-bind-template="提交评价" ng-click="submitEvaluation(EvaInfo)"
+			style="margin-top: 30px;margin-left: 70%;"></a>
+	</div>
+	<div style="height: 40px;"></div> 
+</body> 
+
+
+</html>

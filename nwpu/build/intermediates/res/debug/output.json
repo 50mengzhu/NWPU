@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"FULL_SPLIT","splits":[{"filterType":"ABI","value":"x86"}],"versionCode":1},"path":"resources-x86Debug.ap_","properties":{"packageId":"com.zyw.nwpu","split":"","minSdkVersion":"19"}}]

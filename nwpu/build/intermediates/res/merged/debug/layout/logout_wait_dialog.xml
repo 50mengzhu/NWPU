@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/shape_logout_waiting"
+    android:padding="10dp"
+    android:paddingRight="20dp" >
+
+    <ProgressBar
+        android:id="@+id/pb_waiting_crt_snd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/pb_waiting_crt_snd"
+        android:text="正在注销..."
+        android:textColor="#ff555555"
+        android:textSize="18sp" />
+
+</RelativeLayout>

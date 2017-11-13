@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html ng-app="main">
+<head>
+	<meta charset="UTF-8">
+    <!--自适应界面,如果出现,在某些设备出现界面偏小的话,检查一下有没有加入这句 -->
+    <meta http-equiv="Content-type" name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width">
+    <link rel="stylesheet" href="lib/bootstrap.min.css" />
+    <link rel="stylesheet" href="lib/bootstrap-dialog.css" />
+    <link rel="stylesheet" href="css/main.css" />
+	               
+	<script type="text/javascript" src="lib/angular.js"></script>
+	<script type="text/javascript" src="lib/jquery.js"></script>
+	<script type="text/javascript" src="lib/bootstrap.min.js"></script>
+	<script type="text/javascript" src="lib/bootstrap-dialog.js"></script>
+	<script type="text/javascript" src="js/commFunction.js"></script>
+    <script type="text/javascript" src="js/expectProController.js"></script>
+        
+</head>	
+
+<header>
+	<div class="nav-border navbar-default navbar-fixed-top text-center">
+		<div class="btnleft"><a rel="external" href="index.html">活动项目</a></div>
+    	<div class="btnactiveright"><a rel="external" href="expectProject.html">期待项目</a></div>
+    	<div class="pull-left" >
+			<a rel="external" href="html/login.html" class="glyphicon glyphicon-user" style="color:#337AB7;margin-top:12px;font-size: 12px;text-align:center">登录</a>
+		</div>		
+	</div>		
+</header>
+
+<body ng-controller="beforeLoginEXPCtrl"> 
+	<div style="height: 40px;"></div>
+	
+	<dd style="margin-top:20px;text-align: center;color: #337AB7" ng-show="HaveData">项目被激活后才能开始报名。</dd>
+
+	<div class="container" ng-repeat="list in expectprojectlist" >
+		<div class="li_style" >
+			<dd style="margin-top: 8px; color: #337AB7" ng-class="list.projectType"></dd>
+			<a rel="external"  href="html/project_detail.html?list.num={{list.project_num}}&index=1"  
+			   ng-bind-template="{{list.projectname}}"></a>   
+			
+			<span class="orange" ng-bind-template="({{list.project_score}}学分)"></span>
+		</div>
+
+	    <dd style="margin-left: 10px" ng-bind-template="预期活动期间："></dd>
+	    <dd class="inbox" style="margin-left: 25px" ng-bind-template="{{list.start_time_list}}~{{list.signup_endtime}}"></dd>
+    	
+    	  	          		
+	    <dd style="margin-left: 10px" ng-bind-template="{{list.detail}}"></dd>
+	</div>
+	
+	<div style="margin-top:20px;text-align: center;" ng-show="noData" >
+		<dd style="color: #337AB7" ng-show="noData">没有审核通过，可期待的项目！</dd>	  
+	</div>
+	
+	<div style="height: 40px;"></div>
+</body>
+
+</html>

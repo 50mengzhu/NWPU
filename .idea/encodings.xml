@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/nwpu/src/main/java/com/zyw/nwpu/adapter/BBSTagAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpu/src/main/java/com/zyw/nwpu/app/AccountHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpu/src/main/java/com/zyw/nwpu/app/AppApplication.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/nwpu/src/main/java/com/zyw/nwpu/app/Const.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpu/src/main/java/com/zyw/nwpu/app/WlanShakeService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpuLib/src/main/java/com/zyw/nwpulib/model/BBSChannelEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpuLib/src/main/java/com/zyw/nwpulib/model/ChannelItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpuLib/src/main/java/com/zyw/nwpulib/model/Comment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpuLib/src/main/java/com/zyw/nwpulib/model/CommentData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpuLib/src/main/java/com/zyw/nwpulib/model/CommentEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpuLib/src/main/java/com/zyw/nwpulib/model/JokeEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpuLib/src/main/java/com/zyw/nwpulib/model/LikeData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpuLib/src/main/java/com/zyw/nwpulib/model/News.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpuLib/src/main/java/com/zyw/nwpulib/model/NewsEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpuLib/src/main/java/com/zyw/nwpulib/model/PushEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpuLib/src/main/java/com/zyw/nwpulib/model/ScrollImageEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpuLib/src/main/java/com/zyw/nwpulib/model/Status.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpuLib/src/main/java/com/zyw/nwpulib/model/StatusData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpuLib/src/main/java/com/zyw/nwpulib/model/UserInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nwpuLib/src/main/java/com/zyw/nwpulib/utils/JsonParser.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

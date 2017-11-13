@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\avoscloud_search_actionbar_back.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-mdpi\\avoscloud_search_actionbar_back.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\avoscloud_feedback_dev_reply_background.9.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-mdpi\\avoscloud_feedback_dev_reply_background.9.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\avoscloud_feedback_user_reply_background.9.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-mdpi\\avoscloud_feedback_user_reply_background.9.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\avoscloud_feedback_notification.9.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-mdpi\\avoscloud_feedback_notification.9.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\avoscloud_feedback_thread_actionbar_back.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-mdpi\\avoscloud_feedback_thread_actionbar_back.png"
+    }
+]

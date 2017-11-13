@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/ok" >
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/remark"
+        android:layout_below="@+id/salary"
+        android:layout_marginTop="16dp"
+        android:ems="7"
+        android:textSize="10sp"
+        android:text="ttttt" />
+
+    <TextView
+        android:id="@+id/salary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/remark"
+        android:ems="5"
+        android:text="TextView"
+        android:textColor="#FFF961"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/remark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="42dp"
+        android:layout_marginTop="32dp"
+        android:ems="5"
+        android:singleLine="true"
+        android:textSize="15sp"
+        android:text="TextView" />
+
+</RelativeLayout>

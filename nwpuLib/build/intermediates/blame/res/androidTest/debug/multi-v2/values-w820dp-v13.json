@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpuLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpuLib\\build\\intermediates\\bundles\\debug\\res\\values-w820dp-v13\\values-w820dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpuLib\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpuLib\\build\\intermediates\\bundles\\debug\\res\\values-w820dp-v13\\values-w820dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

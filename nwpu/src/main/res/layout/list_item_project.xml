@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/left_drawer_item_bg"
+    android:orientation="vertical"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="10dp" >
+
+    <RelativeLayout
+        android:id="@+id/article_top_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="10dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/item_title"
+                style="@style/item_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="人文艺术等素质素养" />
+
+            <TextView
+                android:id="@+id/item_loc"
+                style="@style/item_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="地点：篮球场" />
+
+            <TextView
+                android:id="@+id/item_start"
+                style="@style/item_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="开始时间：2016-09-24 22:57:31" />
+
+            <TextView
+                android:id="@+id/item_end"
+                style="@style/item_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="结束时间：2016-09-28 22:57:44" />
+
+            <TextView
+                android:id="@+id/item_zhuban"
+                style="@style/item_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="主办单位：航天学院" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/divider_day" />
+
+</LinearLayout>

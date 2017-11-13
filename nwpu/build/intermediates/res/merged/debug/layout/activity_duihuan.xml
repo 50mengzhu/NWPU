@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res/com.zyw.nwpu"
+    android:id="@+id/activity_jifen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <com.zyw.nwpu.base.TitleBar
+        android:id="@+id/head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:actionType="none"
+        app:isShowBackButton="true"
+        app:titleText="兑换记录" />
+
+    <com.zyw.nwpu.jifen.widget.XListView
+        android:id="@+id/List_duihuanjilu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:dividerHeight="15dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:scrollbarStyle="outsideOverlay" >
+    </com.zyw.nwpu.jifen.widget.XListView>
+
+</LinearLayout>

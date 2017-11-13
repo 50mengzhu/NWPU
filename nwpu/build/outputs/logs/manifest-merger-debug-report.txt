@@ -1,0 +1,820 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:2:1-626:12
+INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:2:1-626:12
+INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:2:1-626:12
+INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:2:1-626:12
+MERGED from [:nwpuLib] F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpuLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:2:1-626:12
+INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:2:1-626:12
+INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:2:1-626:12
+	package
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:4:5-27
+		INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml
+		INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:6:5-31
+		INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml
+		INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml
+		INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [:nwpuLib] F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpuLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:nwpuLib] F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpuLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml
+		INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml
+		INJECTED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:13:5-88
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:13:22-85
+uses-permission#android.hardware.sensor.accelerometer
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:15:5-77
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:15:22-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:19:5-20:23
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:22:5-23:23
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:25:5-26:23
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:25:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:28:5-29:23
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:28:22-81
+uses-permission#android.permission.VIBRATE
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:30:22-63
+uses-permission#android.permission.INTERNET
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:31:5-67
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:31:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:32:5-71
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:32:22-68
+uses-permission#android.permission.CAMERA
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:33:5-65
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:33:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:34:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:35:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:38:5-68
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:38:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:39:5-76
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:39:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:41:5-68
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:41:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:42:5-80
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:42:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:43:5-75
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:43:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:44:5-81
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:44:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:45:5-71
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:45:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:46:5-74
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:46:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:47:5-74
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:47:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:48:5-80
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:48:22-77
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:49:5-85
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:49:22-82
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:50:5-75
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:50:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:51:5-73
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:51:22-70
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:52:5-82
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:52:22-79
+permission#com.zyw.nwpu.permission.C2D_MESSAGE
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:55:5-57:47
+	android:protectionLevel
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:57:9-44
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:56:9-59
+uses-permission#com.zyw.nwpu.permission.C2D_MESSAGE
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:59:5-75
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:59:22-72
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:72:5-68
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:72:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:73:5-74
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:73:22-71
+supports-screens
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:75:5-80:39
+	android:largeScreens
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:77:9-36
+	android:smallScreens
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:80:9-36
+	android:normalScreens
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:78:9-38
+	android:resizeable
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:79:9-34
+	android:anyDensity
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:76:9-34
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:98:5-79
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:98:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:114:5-89
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:114:22-86
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:116:5-70
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:116:22-67
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:118:5-71
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:118:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:120:5-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:120:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:121:5-73
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:121:22-70
+uses-feature#android.hardware.camera
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:144:5-60
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:144:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:145:5-70
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:145:19-67
+application
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:147:5-624:19
+	android:label
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:151:9-41
+	android:icon
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:150:9-45
+	android:allowBackup
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:149:9-35
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:152:9-40
+	tools:replace
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:153:9-52
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:148:9-55
+activity#com.zyw.nwpu.Welcome
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:154:9-183:20
+	android:label
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:156:13-45
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:155:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:157:13-161:29
+action#android.intent.action.MAIN
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:158:17-69
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:158:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:160:17-77
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:160:27-74
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:162:13-168:29
+action#android.intent.action.SEND
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:163:17-69
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:163:25-66
+category#android.intent.category.DEFAULT
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:165:17-76
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:165:27-73
+data
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:167:17-52
+	android:host
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:276:23-47
+	android:scheme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:275:23-58
+	android:mimeType
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:167:23-49
+	android:pathPrefix
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:277:23-58
+intent-filter#android.intent.action.SEND_MULTIPLE+android.intent.category.DEFAULT
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:176:13-182:29
+action#android.intent.action.SEND_MULTIPLE
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:177:17-78
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:177:25-75
+activity#com.avos.avoscloud.feedback.ThreadActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:184:9-185:20
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:184:19-76
+activity#com.zyw.nwpu.MainTabActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:186:9-189:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:188:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:187:13-56
+activity#com.zyw.nwpu.appcenter.FlowdataActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:190:9-193:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:192:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:191:13-67
+activity#com.zyw.nwpu.appcenter.Allowanceshow
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:194:9-197:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:196:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:195:13-64
+activity#com.zyw.nwpu.appcenter.YktLoginActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:198:9-201:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:200:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:199:13-67
+activity#com.zyw.nwpu.appcenter.RuijiActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:202:9-205:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:204:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:203:13-64
+activity#com.zyw.nwpu.appcenter.GradeActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:206:9-209:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:208:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:207:13-64
+activity#com.zyw.nwpu.jifen.JifenActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:210:9-213:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:212:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:211:13-60
+activity#com.zyw.nwpu.jifen.DuihuanActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:214:9-217:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:216:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:215:13-62
+activity#com.zyw.nwpu.jifen.JfenGuizeActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:218:9-221:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:220:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:219:13-64
+activity#com.zyw.nwpu.jifen.JiangpinActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:222:9-225:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:224:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:223:13-63
+activity#com.zyw.nwpu.appcenter.GraduateGrade
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:226:9-229:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:228:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:227:13-64
+activity#com.zyw.nwpu.appcenter.UndergraduateGrade
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:230:9-233:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:232:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:231:13-69
+activity#com.zyw.nwpu.TushuguanActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:234:9-237:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:236:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:235:13-58
+activity#com.zyw.nwpu.SetPhoneNumActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:238:9-241:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:240:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:239:13-60
+activity#com.zyw.nwpu.ChaoqitixingActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:242:9-245:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:244:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:243:13-61
+activity#com.zyw.nwpu.GuideActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:246:9-249:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:248:13-77
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:247:13-54
+activity#com.zyw.nwpu.AddUserInfoActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:250:9-253:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:252:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:251:13-60
+activity#com.zyw.nwpu.MsgActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:254:9-257:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:256:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:255:13-52
+activity#com.zyw.nwpu.OtherUserInfoActivity2_bakbakbak
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:258:9-261:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:260:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:259:13-73
+activity#com.zyw.nwpu.RobotActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:266:9-279:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:268:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:267:13-54
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:269:13-278:29
+action#android.intent.action.VIEW
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:270:17-69
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:270:25-66
+category#android.intent.category.BROWSABLE
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:273:17-78
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:273:27-75
+activity#com.zyw.nwpu.BBSMyMsgActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:280:9-283:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:282:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:281:13-57
+activity#com.zyw.nwpu.VisitorListActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:284:9-287:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:286:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:285:13-60
+activity#com.zyw.nwpu.appcenter.Allowance
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:288:9-291:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:290:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:289:13-60
+activity#com.zyw.nwpu.PickHomeTownActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:292:9-295:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:294:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:293:13-61
+activity#com.zyw.nwpu.PickTagActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:300:9-303:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:302:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:301:13-56
+activity#com.zyw.nwpu.SurpriseActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:304:9-307:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:306:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:305:13-57
+activity#com.zyw.nwpu.UserListActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:308:9-311:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:310:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:309:13-57
+activity#com.zyw.nwpu.UserInfoActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:312:9-315:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:314:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:313:13-57
+activity#com.zyw.nwpu.BBSCommentActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:316:9-319:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:318:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:317:13-59
+activity#com.zyw.nwpu.BBSPublishActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:320:9-323:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:322:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:321:13-59
+activity#com.zyw.nwpu.CommentActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:324:9-327:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:326:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:325:13-56
+activity#com.zyw.nwpu.QiandaoActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:328:9-331:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:330:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:329:13-56
+activity#com.zyw.nwpu.wlan.WLANLoginActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:332:9-335:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:334:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:333:13-63
+activity#com.zyw.nwpu.WriteCommentActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:336:9-339:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:338:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:337:13-61
+activity#com.zyw.nwpu.wlan.ShortCutWLANLoginActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:340:9-346:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:342:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:341:13-71
+intent-filter#android.intent.action.CREATE_SHORTCUT
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:343:13-345:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:344:17-80
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:344:25-77
+activity#com.zyw.nwpu.UserProfileActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:347:9-350:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:349:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:348:13-60
+activity#com.zyw.nwpu.PhotoViewActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:351:9-354:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:353:13-77
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:352:13-58
+activity#com.zyw.nwpu.FullScreenPhotoViewActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:355:9-358:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:357:13-77
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:356:13-68
+activity#com.zyw.nwpu.CalendarActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:359:9-362:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:361:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:360:13-57
+activity#com.zyw.nwpu.ChannelActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:363:9-366:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:365:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:364:13-56
+activity#com.zyw.nwpu.EditUserInfoActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:367:9-370:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:369:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:368:13-61
+activity#com.zyw.nwpu.DetailsActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:371:9-374:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:373:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:372:13-56
+activity#com.zyw.nwpu.JokeDetailActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:375:9-378:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:377:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:376:13-59
+activity#com.zyw.nwpu.ForgetPwActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:383:9-386:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:385:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:384:13-57
+activity#com.zyw.nwpu.WebViewActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:391:9-394:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:393:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:392:13-56
+activity#com.zyw.nwpu.SettingsActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:395:9-398:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:397:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:396:13-57
+activity#com.zyw.nwpu.Login
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:399:9-402:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:401:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:400:13-46
+activity#com.zyw.nwpu.SearchUserActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:403:9-406:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:405:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:404:13-59
+activity#com.zyw.nwpu.SSOLoginActivity_bak_1219
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:427:9-430:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:429:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:428:13-66
+activity#com.zyw.nwpu.TagActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:431:9-434:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:433:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:432:13-52
+activity#com.zyw.nwpu.xmz.XMZActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:438:9-441:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:440:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:439:13-56
+activity#com.zyw.nwpu.xmz.ProjectsActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:442:9-445:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:444:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:443:13-61
+activity#com.zyw.nwpu.xmz.MyProjectsActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:446:9-449:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:448:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:447:13-63
+activity#com.zyw.nwpu.xmz.ScanActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:450:9-453:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:452:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:451:13-57
+activity#com.zyw.nwpu.xmz.ProjectDetailActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:454:9-457:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:456:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:455:13-66
+activity#com.zyw.nwpu.xmz.EvaluationActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:458:9-461:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:460:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:459:13-63
+activity#com.zyw.nwpu.ChatActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:464:9-467:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:466:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:465:13-53
+activity#com.easemob.easeui.ui.EaseBaiduMapActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:468:9-471:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:470:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:469:13-70
+activity#com.easemob.easeui.ui.EaseShowBigImageActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:472:9-475:20
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:474:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:473:13-74
+activity#com.easyway.barcode.PhonegapBarcodeActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:478:9-482:20
+	android:label
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:481:13-45
+	android:configChanges
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:480:13-63
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:479:13-71
+activity#com.easyway.barcode.MipcaActivityCapture
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:483:9-488:20
+	android:screenOrientation
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:486:13-49
+	android:windowSoftInputMode
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:487:13-60
+	android:configChanges
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:485:13-63
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:484:13-68
+activity#com.phonegap.DroidGap
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:489:9-493:20
+	android:label
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:492:13-45
+	android:configChanges
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:491:13-63
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:490:13-49
+receiver#com.zyw.nwpu.avos.MPushReceiver
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:497:9-505:20
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:497:19-65
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+com.avos.UPDATE_STATUS+push.url
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:498:13-504:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:499:17-79
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:499:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:500:17-77
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:500:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:501:17-79
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:501:25-76
+action#com.avos.UPDATE_STATUS
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:502:17-65
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:502:25-62
+action#push.url
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:503:17-51
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:503:25-48
+receiver#com.zyw.nwpu.avos.BBSPushReceiver
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:508:9-518:20
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:508:19-67
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+bbs.comment+com.avos.UPDATE_STATUS+push.bbs_like+push.visit
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:509:13-517:29
+action#bbs.comment
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:514:17-54
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:514:25-51
+action#push.bbs_like
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:515:17-56
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:515:25-53
+action#push.visit
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:516:17-53
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:516:25-50
+service#com.avos.avoscloud.PushService
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:520:9-66
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:520:18-63
+receiver#com.avos.avoscloud.AVBroadcastReceiver
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:522:9-527:20
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:522:19-72
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:523:13-526:29
+meta-data#EASEMOB_APPKEY
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:530:9-532:49
+	android:value
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:532:13-46
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:531:13-42
+service#com.easemob.chat.EMChatService
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:535:9-537:39
+	android:exported
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:537:13-36
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:536:13-58
+receiver#com.easemob.chat.StartServiceReceiver
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:540:9-547:20
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:540:19-71
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON+android.intent.category.LAUNCHER
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:541:13-546:29
+	android:priority
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:541:28-51
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:543:17-82
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:543:25-79
+receiver#com.zyw.nwpu.receiver.NetworkConnectChangedReceiver
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:550:9-556:20
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:550:19-85
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE+android.net.wifi.STATE_CHANGE+android.net.wifi.WIFI_STATE_CHANGED
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:551:13-555:29
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:553:17-78
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:553:25-75
+action#android.net.wifi.STATE_CHANGE
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:554:17-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:554:25-69
+receiver#com.easemob.chat.EMMonitorReceiver
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:559:9-570:20
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:559:19-68
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:560:13-564:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:561:17-80
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:561:25-77
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:573:9-575:56
+	android:value
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:575:13-53
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:574:13-52
+service#com.baidu.location.f
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:577:9-580:41
+	android:process
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:580:13-38
+	android:enabled
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:579:13-35
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:578:13-48
+service#com.zyw.nwpu.app.WlanShakeService
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:583:9-589:19
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:583:18-66
+intent-filter#android.intent.category.DEFAULT+com.zyw.nwpu
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:584:13-588:29
+action#com.zyw.nwpu
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:585:17-55
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:585:25-52
+activity#com.mob.tools.MobUIShell
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:592:9-613:20
+	android:screenOrientation
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:595:13-49
+	android:windowSoftInputMode
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:597:13-67
+	android:configChanges
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:594:13-74
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:596:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:593:13-52
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:608:13-612:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:609:17-92
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:609:25-89
+activity#com.zyw.nwpu.wxapi.WXEntryActivity
+ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:616:9-621:75
+	android:screenOrientation
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:620:13-49
+	android:exported
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:619:13-36
+	android:configChanges
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:618:13-74
+	android:theme
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:621:13-72
+	android:name
+		ADDED from F:\work\nwpuapp\nwpuapp\nwpu_201512201\nwpu\src\main\AndroidManifest.xml:617:13-50

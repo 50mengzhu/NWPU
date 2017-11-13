@@ -1,0 +1,1090 @@
+[
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_notify_pre.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_tab_notify_pre.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatfrom_bg_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatfrom_bg_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avoscloud_search_actionbar_back.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\avoscloud_search_actionbar_back.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_timeline_point_blue.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_timeline_point_blue.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_user_bubble_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\skin_aio_user_bubble_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lottery_text.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_lottery_text.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sign_no.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_sign_no.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatting_setmode_keyboard_btn_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatting_setmode_keyboard_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_5.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_5.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_kecheng.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_kecheng.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_12.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_12.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_xiangmuzhi.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_xiangmuzhi.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cj2.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_cj2.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatfrom_voice_playing_f2.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatfrom_voice_playing_f2.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_hand.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_hand.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_qiandao.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_qiandao.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_unread_count_bg.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_unread_count_bg.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_xiaoli.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_xiaoli.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lottery_close.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_lottery_close.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_up.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_arrow_up.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_mm_listitem_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_mm_listitem_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_3.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_3.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_11.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_record_animate_11.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avoscloud_feedback_user_reply_background.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\avoscloud_feedback_user_reply_background.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wifi_4.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\wifi_4.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_mm_listitem_grey_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_mm_listitem_grey_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_login_error_icon.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_login_error_icon.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_hometown.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_hometown.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_26.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_26.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_31.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_31.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_focus.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\tab_focus.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_girl.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_girl.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chat_send_btn_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chat_send_btn_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mmtitle_bg_alpha.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\mmtitle_bg_alpha.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_img.jpg",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\default_img.jpg"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_press.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\tab_press.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chat_def_pic.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_chat_def_pic.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loginbut.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\loginbut.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatting_biaoqing_btn_enable.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatting_biaoqing_btn_enable.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ssdk_oks_ptr_ptr.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_mm_listitem_disable.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_mm_listitem_disable.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ok.jpg",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ok.jpg"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logoutbut.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\logoutbut.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatfrom_bg_focused.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatfrom_bg_focused.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lottery_backgroud.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_lottery_backgroud.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_ok_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\btn_ok_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_16.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_16.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_slidetab_bg_press.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_slidetab_bg_press.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chat_press_speak_btn_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chat_press_speak_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_10.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_10.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\point_focused.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\point_focused.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backimg.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\backimg.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_appitem_del_btn_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_appitem_del_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_wifi_bg1.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_wifi_bg1.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chat_face_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chat_face_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_appitem_del_btn_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_appitem_del_btn_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatting_setmode_keyboard_btn_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatting_setmode_keyboard_btn_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_help.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_help.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_28.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_28.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatto_voice_playing_f2.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatto_voice_playing_f2.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lottery_cover.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_lottery_cover.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatfrom_voice_playing.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatfrom_voice_playing.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_08.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_record_animate_08.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_22.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_22.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_app_pre.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_tab_app_pre.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_announcement_cancel_highlight.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\message_announcement_cancel_highlight.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_21.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_21.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatting_biaoqing_btn_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatting_biaoqing_btn_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lottery_title.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_lottery_title.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_new_friends_icon.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_new_friends_icon.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_18.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_18.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_video_recorder_stop_btn.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_video_recorder_stop_btn.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chat_edit_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chat_edit_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chat_send_btn_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chat_send_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatting_setmode_voice_btn_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatting_setmode_voice_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_20.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_20.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_radio_true.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_radio_true.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_feedback.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_feedback.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_35.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_35.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_unselected.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\tab_unselected.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sign_first.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_sign_first.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avoscloud_feedback_thread_actionbar_back.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\avoscloud_feedback_thread_actionbar_back.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_app_nor.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_tab_app_nor.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\monthmeal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\monthmeal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_06.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_record_animate_06.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avoscloud_feedback_notification.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\avoscloud_feedback_notification.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_me_pre.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_tab_me_pre.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_mm_listitem_simple.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_mm_listitem_simple.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_position.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_position.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_paocao.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_paocao.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_guide1.jpg",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\img_guide1.jpg"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chat_press_speak_btn_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chat_press_speak_btn_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_groups_icon.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_groups_icon.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_gallery.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_07.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_record_animate_07.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_me_nor.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_tab_me_nor.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_birthday.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_birthday.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_selected.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\tab_selected.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_01.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_record_animate_01.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_cancel.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\btn_cancel.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_defaut_headimg.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_defaut_headimg.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_timeline_point_yellow.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_timeline_point_yellow.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plus_black.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_plus_black.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow_left.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\shadow_left.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_dx_checkbox_on.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_dx_checkbox_on.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_xiaoche.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_xiaoche.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_appinfo.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_appinfo.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_video_recorder_start_btn.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_video_recorder_start_btn.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_conversation_selected.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_conversation_selected.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_mm_title_remove.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_mm_title_remove.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_17.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_17.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chaoqitixing.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_chaoqitixing.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatting_setmode_voice_btn_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatting_setmode_voice_btn_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_open.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_open.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_to_group_details_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_to_group_details_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\visitor_me_cover.jpg",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\visitor_me_cover.jpg"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chat_face_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chat_face_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatto_bg_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatto_bg_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scrollview_header.jpg",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\scrollview_header.jpg"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\mm_title_back_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chat.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_chat.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_bottomtip.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_bottomtip.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_conversation_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_conversation_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mystatus.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_mystatus.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_video_play_btn_small_nor.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_video_play_btn_small_nor.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_10.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_record_animate_10.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_11.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_11.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_4.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_4.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_30.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_30.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatto_voice_playing_f3.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatto_voice_playing_f3.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_27.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_27.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatfrom_voice_playing_f1.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatfrom_voice_playing_f1.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_contact_list_selected.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_contact_list_selected.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_type_select_btn_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_type_select_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_13.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_13.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_shareapp.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_shareapp.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notify.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_notify.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_12.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_record_animate_12.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wifi_5.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\wifi_5.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leftflow.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\leftflow.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_voice_unread.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_voice_unread.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_bwbd.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_bwbd.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unread_count_bg.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\unread_count_bg.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_edit_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\login_edit_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_yikatong.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_yikatong.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_jiangzhujin.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_jiangzhujin.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_14.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_record_animate_14.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\age_classification_arrows_down.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\age_classification_arrows_down.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_6.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_6.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_ic_launcher.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_ic_launcher.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_wifi_bg2.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_wifi_bg2.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_09.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_record_animate_09.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_type_select_btn_nor.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_type_select_btn_nor.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_query.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_query.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_score.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_score.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_relation.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_relation.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\usedflow.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\usedflow.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_29.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_29.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_shadow.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\drawer_shadow.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_icon_marka.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_icon_marka.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plus.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_plus.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_notify_nor.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_tab_notify_nor.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatto_voice_playing_f1.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatto_voice_playing_f1.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_welcome.jpg",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\pic_welcome.jpg"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_info.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_info.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sign_yes.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_sign_yes.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_32.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_32.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_2.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_2.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_topic.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_topic.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_dx_checkbox_gray_on.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_dx_checkbox_gray_on.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_back_grey600_18dp.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_arrow_back_grey600_18dp.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_title_publish.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_title_publish.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_water.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_water.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_msg_state_fail_resend.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_msg_state_fail_resend.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatto_bg_focused.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatto_bg_focused.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_msg_state_fail_resend_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_msg_state_fail_resend_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\inputedit1.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\inputedit1.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_15.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_15.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lottery_window.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_lottery_window.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_contact_list_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_contact_list_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_one_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\btn_style_one_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wifi_3.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\wifi_3.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_caiwu.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_caiwu.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avoscloud_feedback_dev_reply_background.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\avoscloud_feedback_dev_reply_background.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_show_head_toast_bg.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_show_head_toast_bg.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_edit_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\login_edit_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\point_unfocused.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\point_unfocused.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cj1.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_cj1.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\em_login_error_icon.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\em_login_error_icon.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatfrom_voice_playing_f3.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatfrom_voice_playing_f3.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_02.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_record_animate_02.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_more_horiz_black_36dp.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_more_horiz_black_36dp.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_05.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_record_animate_05.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_down.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_arrow_down.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_focused.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\mm_title_back_focused.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_25.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_25.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_common_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\btn_common_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_guide2.jpg",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\img_guide2.jpg"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_screen_rotation_grey600_24dp.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_screen_rotation_grey600_24dp.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_common_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\btn_common_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_seabar_input.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_seabar_input.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_banshi.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_banshi.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_04.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_record_animate_04.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_guide3.jpg",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\img_guide3.jpg"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search_name.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_search_name.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clear_grey600_36dp.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_clear_grey600_36dp.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_app_panel_video_icon.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_app_panel_video_icon.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_setting.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_search_clear_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_search_clear_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_19.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_19.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_one_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\btn_style_one_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_03.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_record_animate_03.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_yes.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_yes.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_input_bar_bg_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_input_bar_bg_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leftmoney.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\leftmoney.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_wifi.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_wifi.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_college.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_college.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_kaifangshijian.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_kaifangshijian.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_search_clear_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_search_clear_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_bombbox.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\bg_bombbox.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_23.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_23.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_xingzuo.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_xingzuo.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_popu_right_up.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\top_popu_right_up.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_34.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_34.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_home_nor.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_tab_home_nor.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_radio_false.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_radio_false.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_8.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_8.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_unread_dot.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_unread_dot.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_guide4.jpg",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\img_guide4.jpg"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_search_bar_icon_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_search_bar_icon_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\calendar2.jpg",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\calendar2.jpg"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wifi_1.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\wifi_1.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_ok_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\btn_ok_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_24.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_24.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_home_pre.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_tab_home_pre.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_default_image.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_default_image.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\timeline_content.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\timeline_content.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tushu.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_tushu.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_settings_normal.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_settings_normal.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_aio_friend_bubble_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\skin_aio_friend_bubble_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_visitcount.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_visitcount.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wifi_2.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\wifi_2.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_settings_selected.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_settings_selected.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chat_video_mask_to.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chat_video_mask_to.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chengji.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_chengji.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_location_msg.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_location_msg.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_boy.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_boy.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatto_voice_playing.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_chatto_voice_playing.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stick.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_stick.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\calendar1.jpg",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\calendar1.jpg"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\inputedit.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\inputedit.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_cancel_pressed.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\btn_cancel_pressed.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_33.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_33.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_common_disabled.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\btn_common_disabled.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_dx_checkbox_off.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_dx_checkbox_off.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mymsg.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_mymsg.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_input_bar_bg_active.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_input_bar_bg_active.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_wifi_bg3.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_wifi_bg3.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_7.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_7.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_video_download_btn_nor.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_video_download_btn_nor.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_title_msg.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_title_msg.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_1.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_1.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_one_focused.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\btn_style_one_focused.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\transparent.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\transparent.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_13.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ease_record_animate_13.png"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_14.png",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\drawable-hdpi\\ee_14.png"
+    }
+]

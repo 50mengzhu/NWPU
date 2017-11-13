@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.zyw.nwpu"
+    android:id="@+id/main_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/channel_item_background_dark" >
+
+    <com.zyw.nwpu.base.TitleBar
+        android:id="@+id/head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:titleText="我报名的项目" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/head"
+        android:background="@color/subscribe_activity_bg" >
+
+        <com.zyw.nwpu.view.xlistview.XListView
+            android:id="@+id/mListView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@color/white"
+            android:dividerHeight="0dp"
+            android:fadingEdge="none"
+            android:scrollbars="none" />
+    </RelativeLayout>
+
+</RelativeLayout>

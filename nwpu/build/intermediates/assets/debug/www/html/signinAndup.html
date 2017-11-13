@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html ng-app="main">
+<head>
+	<meta charset="UTF-8">
+    <!--自适应界面,如果出现,在某些设备出现界面偏小的话,检查一下有没有加入这句 -->
+    <meta http-equiv="Content-type" name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width">
+    <link rel="stylesheet" href="../lib/bootstrap.min.css" />
+    <link rel="stylesheet" href="../lib/bootstrap-dialog.css" />
+    <link rel="stylesheet" href="../css/main.css" />
+	               
+	<script type="text/javascript" src="../lib/angular.js"></script>
+	<script type="text/javascript" src="../lib/angularjsLocalstorage.js"></script>
+	<script type="text/javascript" src="../lib/jquery.js"></script>
+	<script type="text/javascript" src="../lib/bootstrap.min.js"></script>
+	<script type="text/javascript" src="../lib/bootstrap-dialog.js"></script>
+	<script type="text/javascript" src="../js/commFunction.js"></script>
+	<script type="text/javascript" src="../js/signinAndupController.js"></script>
+    
+     
+    
+    <script type="text/javascript" src="../lib/jquery.mobile-1.0.1.js" ></script>
+    <script type="text/javascript" src="../lib/phonegap-1.4.1.js" ></script>
+    <script type="text/javascript" src="../js/barcodescanner.js" ></script>
+    
+    
+</head>	
+
+<header>
+<div class="nav-border navbar-top navbar-fixed-top text-center navbar-color">
+	<div class="pull-right" >
+		<a rel="external" ng-click="returnIndex(back)" class="glyphicon glyphicon-remove" style="color:#FFF;margin: 12px 5px;font-size: 12px;text-align:center">退出</a>
+	</div>
+	<h4>签到报名</h4>
+</div>	
+</header>
+
+<body ng-controller="angularCtrl"> 
+<div class="container" style="margin-top: 45px;">
+	<div class="row clearfix">
+		<div class="col-xs-6 column">
+			 <button type="button" class="btn btn-warning btn-default">
+		 		<span class="glyphicon glyphicon-flag" style="font-size: 16px"></span>
+		 		<span style="margin-right: 60px;font-size: 16px;">今日签到</span>
+			 </button>
+		</div>
+		<div class="col-xs-6 column">
+			<div class="text-primary text-right" style="color: #337AB7;">
+				{{thetime|date:'MM月dd日 HH:mm:ss'}}				
+			</div>			
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="container" ng-repeat="list in projectdatasignUp" >
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+			<li class="li_style" >
+				<dd style="margin-top: 8px; color: #337AB7" ng-class="list.projectType"></dd>   
+				<a rel="external" href="project_detail.html?list.num={{list.project_num}}&qian=2" 
+					  ng-bind="list.projectname" 
+					style="color: #337AB7; font-weight: bold; font-size: 14px;"></a>
+	 			<span class="orange" ng-bind-template="({{list.project_score}}学分)"></span>
+ 			</li>
+	 	</div>
+	 </div>
+	 <div class="row clearfix">
+	 	<div class="col-xs-8 column">
+	        <dd style="margin-left: 10px" ng-bind-template="签到人数：{{list.yqdrs}}/{{list.ybmrs}}人"></dd>
+	        <dd style="margin-left: 10px" ng-bind-template="活动期间：{{list.start_time_list}}"></dd>
+	        <dd style="margin-left: 80px" >{{list.end_time_list}}</dd>        
+	    </div>
+		<div class="col-xs-4 column ">
+			<div class="comeNum" style="margin-top: 10px;" ng-bind-template="已到{{list.yqdrs}}人"></div>
+			
+			<div class="pull-right">
+				<a style="text-decoration: none; color:white;" class="btn btn-warning" ng-bind-template="扫码签到" ng-click="CheckIn(list)"></a>
+			</div>
+			
+		</div>
+	</div>		
+
+	<div class="row clearfix">
+		<div class="col-md-12">
+			
+			<dd style="margin-left: 10px" ng-bind-template="活动地点：{{list.project_location}}"></dd>
+	        <span style="margin-left: 10px" ng-bind-template="{{list.DWMC}}--{{list.leader}}"></span>
+            <a style="margin-left: 5px" ng-href="tel:{{list.phone}}" class="glyphicon glyphicon-earphone" ng-bind-template="{{list.phone}}"></a>
+	        
+	    </div>		
+	</div>	
+</div>
+
+<div style="padding:10px 20px 0px;" ng-show="todayRGFlag" >
+	<h4 class="orange" ng-show="todayRGFlag">今日没有需要签到的活动！</h4>	  
+</div>
+
+<div style="padding:20px 15px 0px;" class="container">
+    <button type="button" class="btn btn-primary btn-default">
+		<span class="glyphicon glyphicon-calendar" style="font-size: 16px"></span>
+		<span style="margin-right: 60px;font-size: 16px;">快去报名</span>
+	</button>
+</div>
+
+<div class="container" ng-repeat="list in signUpQuickly" >
+	<div class="row clearfix">
+		<div class="col-md-12"> 
+			<li class="li_style" >
+				<dd style="margin-top: 8px; color: #337AB7" ng-class="list.projectType"></dd>   
+				<a rel="external"  href="project_detail.html?list.num={{list.project_num}}&can=2"  
+					  ng-bind="list.projectname"
+					style="color: #337AB7; font-weight: bold; font-size: 14px;"></a>
+	 			<span class="orange" ng-bind-template="({{list.project_score}}学分)"></span>
+	 			
+	 			<dd>
+		 			<span style="margin-left: 10px" ng-bind-template="报名人数：{{list.ybmrs}}/{{list.limit_people}}人"></span>
+	            	
+	            	<a class="inbox" ng-show="list.signlist" style="margin-left: 10px" rel="external"  href="signUpNameList.html?list.num={{list.project_num}}"
+	            	ng-bind-template="报名详情"></a>
+            	</dd>
+ 			</li>
+		</div>
+	</div>
+	<div class="row clearfix">
+		<div class="col-xs-8 column" >
+            
+	        <dd style="margin-left: 10px" ng-bind-template="报名期间：{{list.signup_starttime}}"></dd>
+	        <dd style="margin-left: 80px">{{list.signup_endtime}}</dd>
+	        <dd style="margin-left: 10px" ng-bind-template="活动期间：{{list.start_time_list}}"></dd>
+	        <dd style="margin-left: 80px">{{list.end_time_list}}</dd>
+		</div>
+		
+
+		<div class="col-xs-4 column">
+			<div class="comment">
+				{{list.buttoncomment}}
+			</div>
+			<div class="pull-right" >
+				<a style="text-decoration: none;" ng-class="list.status" ng-bind-template="{{list.buttonText}}" ng-click="toJoinOrQuit(list)"></a>
+			</div>	
+		</div>
+	</div>
+	<div class="row clearfix">
+		<div class="col-md-12">			
+			<dd style="margin-left: 10px" ng-bind-template="活动地点：{{list.xq_name}}{{list.project_location}}"></dd>	          		
+            <span style="margin-left: 10px" ng-bind-template="{{list.DWMC}}--{{list.leader}}"></span>
+            <a style="margin-left: 5px" ng-href="tel:{{list.phone}}" class="glyphicon glyphicon-earphone" ng-bind-template="{{list.phone}}"></a>
+		</div>
+	</div>		
+	
+</div>
+
+<div style="padding:20px 20px 0px;" ng-show="noData" >
+	<dd style="color: #337AB7" ng-show="noData">没有要开展的活动！</dd>	  
+</div>
+<div style="height: 75px;"></div>
+</body>
+
+<footer> 
+<nav class="navbar  navbar-default navbar-fixed-bottom text-center">
+  	<div class="nav navbar-nav footer"> 	
+		<div class="footer-menu-left">
+			<a rel="external" href="signinAndup.html"><span class="glyphicon glyphicon-pencil" style="color:#337AB7;"></span></a>
+			<h4 "><a rel="external" href="signinAndup.html" style="color: #337AB7;">签报</a></h4>
+		</div>
+		
+		<div class="footer-menu">
+			<a rel="external" href="signupAlready.html"><span class="glyphicon glyphicon-tasks" style="color:#999;"></span></a>
+			<h4 "><a rel="external" href="signupAlready.html" style="color: #999;">已报名</a></h4>
+		</div>
+				
+		<div class="footer-menu">
+			<a rel="external" href="joinAlready.html"><span class="glyphicon glyphicon-check" style="color:#999;"></span></a>
+			<h4 "><a rel="external" href="joinAlready.html" style="color: #999;">已参加</a></h4>
+		</div>
+		
+		
+		<div class="footer-menu">
+			<a rel="external" href="message.html"><span class="glyphicon glyphicon-envelope" style="color:#999;"></span></a>
+			<h4 "><a rel="external" href="message.html" style="color: #999;">消息</a></h4>
+		</div>
+		
+		<div class="footer-menu-right">
+			<a rel="external" href="myinfo.html"><span class="glyphicon glyphicon-user" style="color:#999;"></span></a>
+			<h4 "><a rel="external" href="myinfo.html" style="color: #999;">我的</a></h4>
+		</div>		
+		
+  	</div>
+</nav>
+</footer>
+</html>
+
+
+

@@ -1,0 +1,128 @@
+{
+	"index.html": {
+		"resources": [
+			"fonts/glyphicons-halflings-regular.woff2",
+			"js/commFunction.js",
+			"lib/bootstrap.min.css",
+			"lib/jquery.js",
+			"js/indexController.js",
+			"css/main.css",
+			"lib/bootstrap-dialog.css",
+			"lib/bootstrap-dialog.js",
+			"lib/angular.js",
+			"lib/bootstrap.min.js",
+			"html/project_detail_weidenglu.html",
+			"html/login.html",
+			"expectProject.html"
+		],
+		"refer": [
+			"html/login.html",
+			"expectProject.html"
+		]
+	},
+	"html/project_detail_weidenglu.html": {
+		"resources": [
+			"js/proDetailController.js"
+		],
+		"refer": []
+	},
+	"html/signinAndup.html": {
+		"resources": [
+			"js/barcodescanner.js",
+			"js/signinAndupController.js",
+			"lib/jquery.mobile-1.0.1.js",
+			"lib/phonegap-1.4.1.js",
+			"html/myinfo.html",
+			"html/project_detail.html",
+			"html/project_evaluate.html",
+			"index.html",
+			"html/signinAndup.html"
+		],
+		"refer": [
+			"html/project_evaluate.html",
+			"index.html",
+			"html/project_detail.html",
+			"html/myinfo.html",
+			"html/signinAndup.html"
+		]
+	},
+	"html/login.html": {
+		"resources": [
+			"js/loginController.js",
+			"html/signinAndup.html",
+			"lib/angularjsLocalstorage.js"
+		],
+		"refer": [
+			"html/signinAndup.html"
+		]
+	},
+	"html/myinfo.html": {
+		"resources": [
+			"js/myinfoController.js",
+			"html/signinAndup.html",
+			"html/message.html"
+		],
+		"refer": [
+			"html/signinAndup.html",
+			"html/message.html"
+		]
+	},
+	"html/project_detail.html": {
+		"resources": [
+			"js/proDetailController.js",
+			"html/signinAndup.html"
+		],
+		"refer": [
+			"html/signinAndup.html"
+		]
+	},
+	"html/project_evaluate.html": {
+		"resources": [
+			"js/projectEvaluateController.js",
+			"html/joinAlready.html"
+		],
+		"refer": [
+			"html/joinAlready.html"
+		]
+	},
+	"html/joinAlready.html": {
+		"resources": [
+			"html/signinAndup.html",
+			"js/joinAlreadyController.js",
+			"html/project_evaluate.html",
+			"html/signupAlready.html"
+		],
+		"refer": [
+			"html/signinAndup.html",
+			"html/project_evaluate.html",
+			"html/signupAlready.html"
+		]
+	},
+	"expectProject.html": {
+		"resources": [
+			"js/expectProController.js",
+			"index.html"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"html/message.html": {
+		"resources": [
+			"js/messageController.js",
+			"html/joinAlready.html"
+		],
+		"refer": [
+			"html/joinAlready.html"
+		]
+	},
+	"html/signupAlready.html": {
+		"resources": [
+			"html/project_detail.html",
+			"js/signupAlreadyController.js"
+		],
+		"refer": [
+			"html/project_detail.html"
+		]
+	}
+}

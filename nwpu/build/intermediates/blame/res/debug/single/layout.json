@@ -1,0 +1,866 @@
+[
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xmz_projectlist.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_xmz_projectlist.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\base_head.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\base_head.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\popupwindow.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flowdata.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_flowdata.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_chat_message_list.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_chat_message_list.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\vw_header.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\vw_header.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\tool_bar.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\tool_bar.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publish.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_publish.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\vw_xscrollview_layout.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\vw_xscrollview_layout.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tag.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_tag.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xmz_projectevaluation.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_xmz_projectevaluation.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\userprofile_head.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\userprofile_head.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_push.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_push.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_comment_header.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\bbs_comment_header.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_adduserinfo.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_adduserinfo.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_duihuan.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_duihuan.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_normal_layout.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\dialog_normal_layout.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_contact_list.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contentpush.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_contentpush.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comment.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_video_call.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_big_expression.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ruiji.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_ruiji.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_contact_list.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_linkpush.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_linkpush.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_status.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item_status.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\loading_process_dialog.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\loading_process_dialog.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_video_call.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_pop.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item_pop.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userprofile.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_userprofile.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_mymsg.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item_mymsg.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userlist.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_userlist.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\avoscloud_feedback_dev_reply.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\avoscloud_feedback_dev_reply.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me2.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\fragment_me2.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_write_comment.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_write_comment.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_chat.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_fragment_chat.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calendar.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\details_imageshow.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\details_imageshow.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_grade.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_app_grade.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\avoscloud_search_activity.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\avoscloud_search_activity.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xmz_scan.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_xmz_scan.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\popup_waiting.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\popup_waiting.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\colume_item.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\colume_item.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_multi_status.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\fragment_multi_status.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_sign.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item_sign.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_user.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item_user.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jifenguize.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_jifenguize.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_status_bak_20170501.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item_status_bak_20170501.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bbs_mymsg.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_bbs_mymsg.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\include_search_bar.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\include_search_bar.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bbs_photoview.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_bbs_photoview.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\logout_wait_dialog.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\logout_wait_dialog.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgetpw.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_forgetpw.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\view_scroll_header.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\view_scroll_header.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_push.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item_push.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_waiting.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\popupwindow_waiting.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xmz.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_xmz.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_userlist.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\fragment_userlist.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_degree.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\popupwindow_degree.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_title_bar.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_jifenguize.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\adapter_jifenguize.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_alert_dialog.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_comment_item.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\bbs_comment_item.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_contact.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_scroll_tab_item.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_show_big_image.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bbs_content.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\fragment_bbs_content.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\channel_item.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\channel_item.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_gender.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\popupwindow_gender.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\base.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\base.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\loading_process_dialog_color.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\loading_process_dialog_color.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\common_datepicker.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\common_datepicker.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\wifi_login_status_toast.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\wifi_login_status_toast.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_expression_gridview.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\avoscloud_search_loading.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\avoscloud_search_loading.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\avoscloud_feedback_activity_conversation.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\avoscloud_feedback_activity_conversation.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_bigexpression.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_message.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_sent_message.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_robot.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_robot.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_left_text.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item_left_text.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userinfo_other2.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_userinfo_other2.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_mystatus.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item_mystatus.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xmz_projectdetail.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_xmz_projectdetail.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_voice_call.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\avoscloud_feedback_thread_actionbar.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\avoscloud_feedback_thread_actionbar.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\robot_searchresult_item.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\robot_searchresult_item.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_voice_call.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_voice.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\userprofile_head_me.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\userprofile_head_me.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\window_waite_publish.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\window_waite_publish.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_expression.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_video.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_sent_video.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_file.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\include_tab.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\include_tab.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_jiangpin.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\adapter_jiangpin.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\avoscloud_search_result_item.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\avoscloud_search_result_item.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\avoscloud_sns_web_activity.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\avoscloud_sns_web_activity.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\gradeshow.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\gradeshow.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_head_sign.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_head_sign.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_statuslist.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\fragment_statuslist.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_message.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\vw_scroll_view_content.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\vw_scroll_view_content.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_emojicon.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\tab_indicator.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\tab_indicator.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_chat_history.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_chat_history.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_jifen.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\adapter_jifen.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\avoscloud_feedback_user_reply.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\avoscloud_feedback_user_reply.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_ykt.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item_ykt.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\popup_toast.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\popup_toast.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_app.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\fragment_app.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_location.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_match.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_match.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_searchuser.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_searchuser.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qiandao.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_qiandao.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\em_chat_neterror_item.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\em_chat_neterror_item.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ykt_login.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_ykt_login.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_video.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_received_video.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_sent_location.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\vw_footer.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\vw_footer.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_notify.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\fragment_notify.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_showvideo_activity.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userinfo.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_userinfo.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\news_fragment.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\news_fragment.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xmz_myproject.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_xmz_myproject.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_file.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_received_file.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\item_timeline.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\item_timeline.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\robot_row_received.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\robot_row_received.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_emojicon.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\robot_searchresult.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\robot_searchresult.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_usermsg.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_usermsg.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userinfo_other.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_userinfo_other.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bbs_comment.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_bbs_comment.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_duihuanjilu.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\adapter_duihuanjilu.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\userprofile_userinfo.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\userprofile_userinfo.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_allowanceshow.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_allowanceshow.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wlan_login.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_wlan_login.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yjs__grade.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_yjs__grade.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_project.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item_project.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jifen.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_jifen.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bbs_channel.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\fragment_bbs_channel.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_voice_recorder.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photoview.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_photoview.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_commom_back_btn.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\download_notification_layout.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\download_notification_layout.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_show_file.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_activity_show_file.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_setshake.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\popupwindow_setshake.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addtag.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_addtag.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_conversation_list.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_baidumap.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_tag.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item_tag.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pickhometown.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_pickhometown.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_chat.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\em_activity_chat.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conditionsearchuser.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\fragment_conditionsearchuser.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\userprofile_tab.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\userprofile_tab.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setphonenum.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_setphonenum.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bbs.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_bbs.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\window_push.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\window_push.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_conversation_item.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\comment_item.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\comment_item.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_picture.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jiangpin.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_jiangpin.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_picture.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_received_picture.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\em_fragment_conversation_list.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\em_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\comment_head.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\comment_head.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_switch_button.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_right_text.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item_right_text.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\em_fragment_chat.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\em_fragment_chat.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\channel.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\channel.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_bbs_channel.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item_bbs_channel.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_surprise.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_surprise.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_shake.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\popupwindow_shake.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lottery.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_lottery.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_editinfo.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_editinfo.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\robot_row_sent.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\robot_row_sent.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_searchuser2.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_searchuser2.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\userprofile_userinfo_me.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\userprofile_userinfo_me.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\act_list_view.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\act_list_view.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\details_imageshow_item.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\details_imageshow_item.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_chat_menu_item.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_grade.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_grade.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bbs.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\fragment_bbs.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_allowance.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_allowance.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chaoqitixing.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_chaoqitixing.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wlan_login_shortcut.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\activity_wlan_login_shortcut.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\avoscloud_search_actionbar.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\avoscloud_search_actionbar.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_section.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_item_section.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_voice.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_wifilogin_success.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\popupwindow_wifilogin_success.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\list_joke_item.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\list_joke_item.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\layout\\details.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\layout\\details.xml"
+    }
+]

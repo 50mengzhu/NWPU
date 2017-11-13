@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh" ng-app="main">
+<head>		
+	<meta charset="UTF-8">
+	<!--自适应界面,如果出现,在某些设备出现界面偏小的话,检查一下有没有加入这句 -->
+    <meta http-equiv="Content-type" name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width">
+    <link rel="stylesheet" href="../lib/bootstrap.min.css" />
+    <link rel="stylesheet" href="../lib/bootstrap-dialog.css" />
+    <link rel="stylesheet" href="../css/main.css" />
+    
+               
+	<script type="text/javascript" src="../lib/angular.js"></script>
+	<script type="text/javascript" src="../lib/jquery.js"></script>
+	<script type="text/javascript" src="../lib/bootstrap.min.js"></script>
+	<script type="text/javascript" src="../lib/bootstrap-dialog.js"></script>
+	<script type="text/javascript" src="../js/commFunction.js"></script>
+	<script type="text/javascript" src="../js/signUpNameListController.js"></script>
+    
+</head>
+<header >
+	<div class="nav-border navbar-top navbar-fixed-top text-center navbar-color">
+		<div class="pull-left" >
+			<a class="glyphicon glyphicon-chevron-left" ng-click="denglu(list)" style="color:#FFF;margin: 12px 5px;font-size: 12px;text-align:center">返回</a>
+		</div>		
+		
+		<h4>报名详情</h4>
+	</div>	
+</header>
+
+<body style="margin-top: 40px;" ng-controller="NameListCtrl" > 
+	<div class="container" style="margin-top: 70px;" ng-if="zero">		
+			<dd ng-bind-template="审核通过的报名人员才能显示，目前暂未有人员审核通过！" style="color:#337AB7; font-size: 15px; 
+				font-weight: bolder; text-align: left;"></dd>	
+			 
+	</div>
+	<div class="container" style="margin-top: 70px;" ng-hide="zero">			
+			<dd  ng-bind="projectName" style="color:#337AB7; font-size: 16px; 
+				text-align: center;"></dd>			 
+	</div>
+	<div class="container" style="margin-top: 10px; text-align: center;" ng-hide="zero" >
+		<div class="row clearfix">
+			<div class="col-md-12 column">
+				<table class="table" >
+					<thead >
+						<tr >
+							<th style="text-align: center;">
+								姓名
+							</th>
+							<th style="text-align: center;">
+								学院
+							</th>						
+						</tr>
+					</thead>
+					<tbody ng-repeat="list in Namelist">
+						 <td ng-if="$odd" style="background-color:#f1f1f1">
+						    {{ list.XM }}</td>
+						    <td ng-if="$even">
+						    {{ list.XM }}</td>
+						    <td ng-if="$odd" style="background-color:#f1f1f1">
+						    {{ list.DWMC }}</td>
+						    <td ng-if="$even">
+						    {{ list.DWMC }}</td>
+					</tbody>
+					
+				</table>
+			</div>
+		</div>
+	</div>
+	<div style="font-size: 12px;color: #337AB7;margin: 15px 20px 20px 20px;">
+		备注：上述名单为主办方已经审核通过的报名人员。
+	</div> 
+	<div style="height: 40px;"></div> 
+</body> 
+
+
+</html>

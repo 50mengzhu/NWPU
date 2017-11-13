@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\xml\\plugins.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\xml\\plugins.xml"
+    },
+    {
+        "merged": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\build\\intermediates\\res\\merged\\debug\\xml\\phonegap.xml",
+        "source": "F:\\work\\nwpuapp\\nwpuapp\\nwpu_201512201\\nwpu\\src\\main\\res\\xml\\phonegap.xml"
+    }
+]

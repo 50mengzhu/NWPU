@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#00000000"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_my_item"
+        android:orientation="vertical"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp" >
+
+        <TextView
+            android:id="@+id/push_title"
+            style="@style/item_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="周五检查宿舍卫生，请提前做好准备"
+            android:textColor="@color/item_title"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/push_time"
+            style="@style/item_secondary_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginTop="10dp"
+            android:text="20小时前"
+            android:textColor="@color/ss_comment_time"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</LinearLayout>

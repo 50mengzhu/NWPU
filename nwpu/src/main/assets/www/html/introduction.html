@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+	<meta charset="UTF-8">
+    <!--自适应界面,如果出现,在某些设备出现界面偏小的话,检查一下有没有加入这句 -->
+    <meta http-equiv="Content-type" name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width">
+    
+    <link rel="stylesheet" href="../lib/bootstrap.min.css" />
+    <link rel="stylesheet" href="../lib/bootstrap-dialog.css" />
+    <link rel="stylesheet" href="../css/main.css" />
+    
+    <script type="text/javascript" src="../lib/angular.js"></script>
+    <script type="text/javascript" src="../lib/jquery.js"></script>
+    <script type="text/javascript" src="../lib/bootstrap.min.js"></script>
+	<script type="text/javascript" src="../lib/bootstrap-dialog.js"></script>
+    <script type="text/javascript" src="../js/timeController.js"></script>
+     
+</head>
+<header>
+	<div id="backgroundImg"><img src="http://222.24.192.176/wap/img/{{Image}}" /></div>
+</header>
+	<body ng-controller="timeCtrl">
+		<div style="margin-top:3%;margin-left:70%; width:28%; height: 30%; 
+			text-align: center; line-height: 28px; vertical-align: middle; background-color:#9D9D9D;">
+                <a  style="text-decoration: none; color:white;" class="introduct" ng-bind-template="点击跳过  {{cutdown}}s" ng-click="jumpTo(url)"></a>
+		</div>		
+	</body>
+</html>

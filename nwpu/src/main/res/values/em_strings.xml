@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<string name="app_name">test</string>-->
+    <!--<string name="connect_conflict">同一帐号已在其他设备登录</string>-->
+    <string name="em_user_remove">此用户已被移除</string>
+
+</resources>

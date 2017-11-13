@@ -1,0 +1,146 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EBEBEB"
+    android:gravity="center_horizontal"
+    tools:context=".WLANLoginActivity" >
+
+    <com.zyw.nwpu.base.TitleBar
+        android:id="@+id/head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:id="@+id/blanklayout"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/head"
+        android:orientation="horizontal" >
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/touchlayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/blanklayout" >
+
+        <RelativeLayout
+            android:id="@+id/accountlayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal" >
+
+            <EditText
+                android:id="@+id/usname_edit"
+                android:layout_width="240dp"
+                android:layout_height="40dp"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/inputedit1"
+                android:hint="输入学号"
+                android:inputType="numberDecimal"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="" />
+
+            <View
+                android:id="@+id/line"
+                android:layout_width="fill_parent"
+                android:layout_height="15dp"
+                android:layout_below="@id/usname_edit" />
+
+            <EditText
+                android:id="@+id/pass_edit"
+                android:layout_width="240dp"
+                android:layout_height="40dp"
+                android:layout_below="@id/line"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/inputedit"
+                android:hint="输入密码"
+                android:inputType="textPassword"
+                android:minHeight="40dp"
+                android:minWidth="240dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="" />
+
+            <CheckBox
+                android:id="@+id/Reme_chk"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/pass_edit"
+                android:layout_below="@id/pass_edit"
+                android:checked="true"
+                android:minHeight="40dp"
+                android:minWidth="240dp"
+                android:text="记住密码"
+                android:textColor="@color/gray" >
+            </CheckBox>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/butlayout"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/touchlayout"
+        android:layout_centerHorizontal="true" >
+
+        <Button
+            android:id="@+id/Log_but"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="2dp"
+            android:background="@drawable/selector_comment_sendbtn"
+            android:text="登  录"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/line1"
+        android:layout_width="fill_parent"
+        android:layout_height="15dp"
+        android:layout_below="@id/butlayout" />
+
+    <LinearLayout
+        android:id="@+id/notionmessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:gravity="left"
+            android:maxWidth="360dp"
+            android:singleLine="false"
+            android:text="@string/notion"
+            android:textColor="@color/darkgray" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/imglayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/notionmessage"
+        android:visibility="gone" >
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:adjustViewBounds="true"
+            android:src="@drawable/backimg" />
+
+        <!-- android:adjustViewBounds="true" 要使紧贴边缘，需要设置这个属性 -->
+
+    </RelativeLayout>
+
+</RelativeLayout>

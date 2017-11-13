@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/head"
+        android:layout_width="fill_parent"
+        android:layout_height="130dp" >
+
+        <LinearLayout
+            android:id="@+id/view_pager_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:orientation="vertical" >
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/app_view_pager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/viewGroup"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/view_pager_content"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="-25px"
+            android:gravity="right"
+            android:orientation="horizontal" >
+        </LinearLayout>
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white" >
+
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white" >
+
+            <TableRow
+                android:id="@+id/tr_0"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:weightSum="3" >
+
+                <LinearLayout
+                    android:id="@+id/ll_tushuguan"
+                    style="@style/query_ll" >
+
+                    <ImageView
+                        style="@style/query_img"
+                        android:src="@drawable/ic_tushu" />
+
+                    <TextView
+                        style="@style/query_text"
+                        android:text="图书馆" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_yikatong"
+                    style="@style/query_ll"
+                    android:visibility="visible" >
+
+                    <ImageView
+                        style="@style/query_img"
+                        android:src="@drawable/ic_water" />
+
+                    <TextView
+                        style="@style/query_text"
+                        android:text="锐捷查询" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_wifi"
+                    style="@style/query_ll" >
+
+                    <ImageView
+                        style="@style/query_img"
+                        android:src="@drawable/ic_wifi" />
+
+                    <TextView
+                        style="@style/query_text"
+                        android:text="校园无线网" />
+                </LinearLayout>
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tr_1"
+                android:layout_width="fill_parent"
+                android:layout_height="80dp"
+                android:weightSum="3" >
+
+                <LinearLayout
+                    android:id="@+id/ll_chaoqitixing"
+                    style="@style/query_ll"
+                    android:visibility="gone" >
+
+                    <ImageView
+                        style="@style/query_img"
+                        android:src="@drawable/ic_chaoqitixing" />
+
+                    <TextView
+                        style="@style/query_text"
+                        android:text="借书超期提醒" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_xiaoche"
+                    style="@style/query_ll" >
+
+                    <ImageView
+                        style="@style/query_img"
+                        android:src="@drawable/ic_xiaoche" />
+
+                    <TextView
+                        style="@style/query_text"
+                        android:text="校车时刻" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_chengji"
+                    style="@style/query_ll"
+                    android:visibility="visible" >
+
+                    <ImageView
+                        style="@style/query_img"
+                        android:src="@drawable/ic_bwbd" />
+
+                    <TextView
+                        style="@style/query_text"
+                        android:text="百问百答" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_cjcx"
+                    style="@style/query_ll" >
+
+                    <ImageView
+                        style="@style/query_img"
+                        android:src="@drawable/ic_chengji" />
+
+                    <TextView
+                        style="@style/query_text"
+                        android:text="成绩查询" />
+                </LinearLayout>
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tr_2"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:visibility="visible"
+                android:weightSum="3" >
+
+                <LinearLayout
+                    android:id="@+id/ll_qiandao"
+                    style="@style/query_ll" >
+
+                    <ImageView
+                        style="@style/query_img"
+                        android:src="@drawable/ic_qiandao" />
+
+                    <TextView
+                        style="@style/query_text"
+                        android:text="签到" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_xiaoli"
+                    style="@style/query_ll" >
+
+                    <ImageView
+                        style="@style/query_img"
+                        android:src="@drawable/ic_xiaoli" />
+
+                    <TextView
+                        style="@style/query_text"
+                        android:text="校历" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_xiangmuzhi"
+                    style="@style/query_ll"
+                    android:visibility="visible" >
+
+                    <ImageView
+                        style="@style/query_img"
+                        android:src="@drawable/ic_xiangmuzhi" />
+
+                    <TextView
+                        style="@style/query_text"
+                        android:text="项目制"
+                        android:visibility="visible" />
+                </LinearLayout>
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tr_3"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:visibility="visible"
+                android:weightSum="3" >
+
+                <LinearLayout
+                    android:id="@+id/ll_jzj"
+                    style="@style/query_ll"
+                    android:visibility="visible" >
+
+                    <ImageView
+                        style="@style/query_img"
+                        android:src="@drawable/ic_caiwu" />
+
+                    <TextView
+                        style="@style/query_text"
+                        android:text="奖助金查询" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_cj"
+                    style="@style/query_ll" >
+
+                    <ImageView
+                        style="@style/query_img"
+                        android:src="@drawable/ic_cj2" />
+
+                    <TextView
+                        style="@style/query_text"
+                        android:text="圣诞抽奖" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_ykt"
+                    style="@style/query_ll"
+                    android:visibility="gone" >
+
+                    <ImageView style="@style/query_img" />
+
+                    <TextView
+                        style="@style/query_text"
+                        android:text="一卡通流水" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_paocao"
+                    style="@style/query_ll"
+                    android:visibility="gone" >
+
+                    <ImageView style="@style/query_img" />
+
+                    <TextView
+                        style="@style/query_text"
+                        android:text="跑操查询"
+                        android:visibility="visible" />
+                </LinearLayout>
+            </TableRow>
+        </TableLayout>
+    </ScrollView>
+
+</LinearLayout>

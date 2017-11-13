@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html ng-app="main">
+<head>
+	<meta charset="UTF-8">
+    <!--自适应界面,如果出现,在某些设备出现界面偏小的话,检查一下有没有加入这句 -->
+    <meta http-equiv="Content-type" name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width">
+    <link rel="stylesheet" href="../lib/bootstrap.min.css" />
+    <link rel="stylesheet" href="../lib/bootstrap-dialog.css" />
+    <link rel="stylesheet" href="../css/main.css" />
+	               
+	<script type="text/javascript" src="../lib/angular.js"></script>
+	<script type="text/javascript" src="../lib/angularjsLocalstorage.js"></script>
+	<script type="text/javascript" src="../lib/jquery.js"></script>
+	<script type="text/javascript" src="../lib/bootstrap.min.js"></script>
+	<script type="text/javascript" src="../lib/bootstrap-dialog.js"></script> 
+	<script type="text/javascript" src="../js/commFunction.js"></script>
+	<script type="text/javascript" src="../js/signupAlreadyController.js"></script>
+        
+
+</head>	
+
+<header>
+	<div class="nav-border navbar-default navbar-fixed-top text-center">		
+		<div class="btnactiveleft"><a rel="external" href="signupAlready.html">报名待参加</a></div>
+    	<div class="btnright"><a rel="external" href="signupNG.html">审核未通过</a></div> 
+    	<div class="pull-right" >
+			<a rel="external" ng-click="returnIndex(back)" class="glyphicon glyphicon-remove" style="color:#337AB7;margin: 12px 5px;font-size: 12px;text-align:center">退出</a>
+		</div>
+	</div>	
+</header>
+
+<body ng-controller="signupCtrl"> 
+	<div style="height: 28px;"></div>
+	<div class="container" ng-repeat="list in signupProjectlist" >
+		<div class="li_style" >
+			<dd style="margin-top: 8px; color: #337AB7" ng-class="list.projectType"></dd>
+			<a rel="external"  href="project_detail.html?list.num={{list.project_num}}&can=3"  
+			   ng-bind-template="{{list.projectname}}"></a>			
+			<span class="orange" ng-bind-template="({{list.project_score}}学分)"></span>
+		</div>
+
+        <dd style="margin-left: 10px" ng-bind-template="报名人数：{{list.ybmrs}}/{{list.limit_people}}人"></dd>
+	    <dd style="margin-left: 10px" ng-bind-template="活动期间：{{list.start_time_list}} ~ {{list.end_time_list}}"></dd>
+    	<dd style="margin-left: 10px" ng-bind-template="活动地点：{{list.project_location}}"></dd> 
+
+  	    <span style="margin-left: 10px" ng-bind-template="{{list.DWMC}}--{{list.leader}}"></span>
+        <a style="margin-left: 5px" ng-href="tel:{{list.phone}}" class="glyphicon glyphicon-earphone" ng-bind-template="{{list.phone}}"></a>
+	    
+	</div>
+	
+	<div style="margin-top:20px;text-align: center;" ng-show="noData" >
+		<dd style="color: #337AB7" ng-show="noData">没有报名待参加的项目！</dd>	  
+	</div>
+	<div style="height: 70px;"></div>
+</body>
+
+<footer> 
+<nav class="navbar  navbar-default navbar-fixed-bottom text-center">
+  	<div class="nav navbar-nav footer"> 	
+		<div class="footer-menu-left">
+			<a rel="external" href="signinAndup.html"><span class="glyphicon glyphicon-pencil" style="color:#999;"></span></a>
+			<h4 "><a rel="external" href="signinAndup.html" style="color: #999;">签报</a></h4>
+		</div>
+		
+		<div class="footer-menu">
+			<a rel="external" href="signupAlready.html"><span class="glyphicon glyphicon-tasks" style="color:#337AB7;"></span></a>
+			<h4 "><a rel="external" href="signupAlready.html" style="color: #337AB7;">已报名</a></h4>
+		</div>
+				
+		<div class="footer-menu">
+			<a rel="external" href="joinAlready.html"><span class="glyphicon glyphicon-check" style="color:#999;"></span></a>
+			<h4 "><a rel="external" href="joinAlready.html" style="color: #999;">已参加</a></h4>
+		</div>
+				
+		<div class="footer-menu">
+			<a rel="external" href="message.html"><span class="glyphicon glyphicon-envelope" style="color:#999;"></span></a>
+			<h4 "><a rel="external" href="message.html" style="color: #999;">消息</a></h4>
+		</div>
+		
+		<div class="footer-menu-right">
+			<a rel="external" href="myinfo.html"><span class="glyphicon glyphicon-user" style="color:#999;"></span></a>
+			<h4 "><a rel="external" href="myinfo.html" style="color: #999;">我的</a></h4>
+		</div>		
+		
+  	</div>
+</nav>
+</footer>
+</html>

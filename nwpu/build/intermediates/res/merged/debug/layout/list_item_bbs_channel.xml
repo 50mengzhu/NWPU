@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/left_drawer_item_bg"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="8dp" >
+
+        <ImageView
+            android:id="@+id/iv_label"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="#ffff6677"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tv_label"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="#ffff6677"
+            android:gravity="center"
+            android:maxLength="1"
+            android:singleLine="true"
+            android:text="淘"
+            android:textColor="@color/white"
+            android:textSize="26sp" />
+
+        <ImageView
+            android:id="@+id/iv_plus"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_plus_black" />
+
+        <RelativeLayout
+            android:id="@+id/rl_channel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/iv_plus"
+            android:layout_toRightOf="@+id/tv_label" >
+
+            <TextView
+                android:id="@+id/tv_topicnum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/tv_channel"
+                android:gravity="left|center_vertical"
+                android:paddingLeft="10dp"
+                android:text="20条"
+                android:textColor="@color/red"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_firsttopic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_channel"
+                android:gravity="left|center_vertical"
+                android:paddingLeft="10dp"
+                android:singleLine="true"
+                android:text="有人去过白鹿原吗？"
+                android:textColor="@color/gray"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tv_channel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:gravity="left|center_vertical"
+                android:paddingLeft="10dp"
+                android:text="校园问答"
+                android:textColor="@color/left_drawer_item_text"
+                android:textSize="17sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="5dp"
+        android:background="@color/divider_day" />
+
+</LinearLayout>

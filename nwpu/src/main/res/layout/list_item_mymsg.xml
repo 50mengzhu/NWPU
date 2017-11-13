@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_list_item_mymsg"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/left_drawer_item_bg"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp" >
+
+    <RelativeLayout
+        android:id="@+id/rl_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/tv_topiccontent" >
+
+            <RelativeLayout
+                android:id="@+id/rl_headbar_mynotify"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:paddingRight="14dp" >
+
+                <ImageView
+                    android:id="@+id/iv_headimg_mynotify"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginRight="10dp" />
+
+                <TextView
+                    android:id="@+id/tv_creatorName_mynotify"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/iv_headimg_mynotify"
+                    android:text="张云伟"
+                    android:textColor="@color/username"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:id="@+id/iv_creatorGender_mynotify"
+                    android:layout_width="14dp"
+                    android:layout_height="14dp"
+                    android:layout_alignBottom="@+id/tv_creatorName_mynotify"
+                    android:layout_marginLeft="3dp"
+                    android:layout_toRightOf="@+id/tv_creatorName_mynotify" />
+
+                <TextView
+                    android:id="@+id/tv_schoolname_mynotify"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/iv_headimg_mynotify"
+                    android:layout_toRightOf="@+id/iv_headimg_mynotify"
+                    android:text="航天学院"
+                    android:textColor="@color/school"
+                    android:textSize="12sp" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/tv_content_mynotify"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rl_headbar_mynotify"
+                android:layout_marginLeft="45dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center_vertical"
+                android:text="内容内容内容内容内容内容"
+                android:textColor="@color/content"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_time_mynotify"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_content_mynotify"
+                android:layout_marginLeft="45dp"
+                android:text="12小时前"
+                android:textColor="@color/time"
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_topiccontent"
+            android:layout_width="@dimen/mymsgtopic"
+            android:layout_height="@dimen/mymsgtopic"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:background="@color/gray"
+            android:padding="3dp"
+            android:text="内容内容内容内容内容内容内容内容内容内容内容内容内容"
+            android:textColor="@color/lighter_gray"
+            android:textSize="10sp"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/iv_topicpic"
+            android:layout_width="@dimen/mymsgtopic"
+            android:layout_height="@dimen/mymsgtopic"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:scaleType="centerCrop" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dp"
+        android:layout_below="@+id/rl_main"
+        android:background="@color/divider_day" />
+
+</RelativeLayout>

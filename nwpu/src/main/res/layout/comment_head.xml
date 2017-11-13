@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <!-- 分割线 -->
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dip"
+        android:background="#ffdddddd"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/ll_cmttitle"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:background="#ffdedede"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:visibility="gone" >
+
+        <View
+            android:layout_width="12dp"
+            android:layout_height="fill_parent"
+            android:background="@color/channel_item_background" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="20dp"
+            android:gravity="center_vertical"
+            android:text="最新评论"
+            android:textColor="#ff666666"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</LinearLayout>

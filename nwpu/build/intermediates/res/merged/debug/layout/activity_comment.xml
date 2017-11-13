@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_view"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/channel_item_background_dark" >
+
+    <com.zyw.nwpu.base.TitleBar
+        android:id="@+id/head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RelativeLayout
+        style="@style/detail_activity"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/head" >
+
+        <ProgressBar
+            android:id="@+id/pb_cmt"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerInParent="true"
+            android:visibility="visible" />
+
+        <ListView
+            android:id="@+id/lv_cmt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="50dp"
+            android:divider="#00000000"
+            android:visibility="gone" >
+        </ListView>
+
+        <TextView
+            android:id="@+id/tv_nocomment"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="暂无评论"
+            android:textColor="#ff666666"
+            android:textSize="16sp"
+            android:visibility="visible" />
+
+        <LinearLayout
+            android:id="@+id/ll_foot_cmt"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/toolbar_bg"
+            android:orientation="vertical"
+            android:visibility="visible" >
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.5dip"
+                android:background="@color/detail_divider_day" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:padding="5dp"
+                android:weightSum="20" >
+
+                <EditText
+                    android:id="@+id/et_comment"
+                    android:layout_width="0dip"
+                    android:layout_height="fill_parent"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="16"
+                    android:background="@drawable/shape_comment_editview"
+                    android:hint="写评论"
+                    android:paddingLeft="8dp"
+                    android:textColor="#ff000000"
+                    android:textSize="17sp" />
+
+                <Button
+                    android:id="@+id/btn_send_cmt"
+                    android:layout_width="0dip"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="4"
+                    android:background="@drawable/selector_comment_sendbtn"
+                    android:text="提交"
+                    android:textColor="@color/white"
+                    android:textSize="17sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,105 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_view"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/half_transparent" >
+
+    <LinearLayout
+        android:id="@+id/ll_menu"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/activity_bg_color"
+        android:orientation="vertical"
+        android:padding="10.0dip" >
+
+        <LinearLayout
+            android:id="@+id/ll_wifi"
+            style="@style/setting_item_head" >
+
+            <TextView
+                style="@style/popupwindow_item_text"
+                android:text="@string/ts_wifi"
+                android:textSize="17sp" />
+
+            <View
+                android:layout_width="0.0dip"
+                android:layout_height="1.0dip"
+                android:layout_weight="1.0" />
+
+            <ImageView
+                android:id="@+id/iv_wifi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="10dp"
+                android:layout_weight="0.0"
+                android:src="@drawable/ic_yes"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_operation"
+            style="@style/setting_item_head" >
+
+            <TextView
+                style="@style/popupwindow_item_text"
+                android:text="@string/ts_operation"
+                android:textSize="17sp" />
+
+            <View
+                android:layout_width="0.0dip"
+                android:layout_height="1.0dip"
+                android:layout_weight="1.0" />
+
+            <ImageView
+                android:id="@+id/iv_operation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="10dp"
+                android:layout_weight="0.0"
+                android:src="@drawable/ic_yes" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_closed"
+            style="@style/setting_item_head" >
+
+            <TextView
+                style="@style/popupwindow_item_text"
+                android:text="@string/ts_closed"
+                android:textSize="17sp" />
+
+            <View
+                android:layout_width="0.0dip"
+                android:layout_height="1.0dip"
+                android:layout_weight="1.0" />
+
+            <ImageView
+                android:id="@+id/iv_closed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="10dp"
+                android:layout_weight="0.0"
+                android:src="@drawable/ic_yes"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_cancel"
+            style="@style/setting_item_head"
+            android:gravity="center" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/ts_cancel"
+                android:textColor="#ffff0000"
+                android:textSize="17sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

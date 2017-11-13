@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res/com.zyw.nwpu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/channel_item_background_dark"
+    android:orientation="vertical"
+    tools:context="com.zyw.nwpu.UndergraduateGrade" >
+
+    <com.zyw.nwpu.base.TitleBar
+        android:id="@+id/head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:actionType="none"
+        app:isShowBackButton="true"
+        app:titleText="成绩查询" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_bks"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/left_drawer_item_bg"
+            android:padding="10dp"
+            android:text="本科生成绩查询"
+            android:textColor="@color/gray"
+            android:textSize="18sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/divider_day" />
+
+        <TextView
+            android:id="@+id/tv_yjs"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/left_drawer_item_bg"
+            android:padding="10dp"
+            android:text="研究生成绩查询"
+            android:textColor="@color/gray"
+            android:textSize="18sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/divider_day" />
+    </LinearLayout>
+
+</LinearLayout>

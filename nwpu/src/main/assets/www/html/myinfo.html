@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html ng-app="main">
+<head>
+	<meta charset="UTF-8">
+    <!--自适应界面,如果出现,在某些设备出现界面偏小的话,检查一下有没有加入这句 -->
+    <meta http-equiv="Content-type" name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width">
+    <link rel="stylesheet" href="../lib/bootstrap.min.css" />
+    <link rel="stylesheet" href="../lib/bootstrap-dialog.css" />
+    <link rel="stylesheet" href="../css/main.css" />
+	               
+	<script type="text/javascript" src="../lib/angular.js"></script>
+	<script type="text/javascript" src="../lib/angularjsLocalstorage.js"></script>
+	<script type="text/javascript" src="../lib/jquery.js"></script>
+	<script type="text/javascript" src="../lib/bootstrap.min.js"></script>
+	<script type="text/javascript" src="../lib/bootstrap-dialog.js"></script>
+	<script type="text/javascript" src="../js/commFunction.js" ></script>
+	<script type="text/javascript" src="../js/myinfoController.js" ></script>
+	
+   
+</head>	
+
+<header>
+<div class="nav-border navbar-top navbar-fixed-top text-center navbar-color">
+	<div class="pull-right" >
+		<a rel="external" ng-click="returnIndex(back)" class="glyphicon glyphicon-remove" style="color:#FFF;margin: 12px 5px;font-size: 12px;text-align:center">退出</a>
+	</div>
+	<h4>个人信息</h4>
+</div>	
+</header>
+
+<body ng-controller="myinfoCtrl"> 
+	<div style="height: 65px;"></div>
+	
+	<div data-role="content" class="container">	
+		<dd style="margin-bottom: 20px">姓名：<span class="info_box" ng-bind-template=" {{myinfo.userName}}"></span></dd> 
+		<dd style="margin-bottom: 20px">学号：<span class="info_box" ng-bind-template=" {{myinfo.stuID}}"></span></dd> 
+		<dd style="margin-bottom: 20px">学院：<span class="info_box" ng-bind-template=" {{myinfo.school}}"></span></dd> 
+		<dd style="margin-bottom: 20px">手机：
+			<span class="info_box" ng-show="phonebool" ng-bind-template=" {{myinfo.phone}}"></span>
+			<span><input type="text" ng-model="myinfo.phoneNum" ng-hide="phonebool" class="infoinput_box" placeholder="请输入常用手机号"></span>
+			<a style="text-decoration: none;" class="editphonebtn" ng-bind-template="{{btnText}}" ng-click="editphone(list)"></a>
+		</dd>
+		<dd style="margin-bottom: 20px">		
+			
+	</div>
+	
+	<div style="height: 25px;"></div>
+	<dd class="from" style="margin-bottom: 10px"></dd>
+	<a rel="external" href="myproject.html" class="glyphicon glyphicon-th-large" style="margin-left: 15px"> 我管理的项目</a> 
+	<div class="pull-right" >
+		<a rel="external" href="myproject.html" class="glyphicon glyphicon-chevron-right" style="margin-right: 15px"></a>
+	</div>
+	<dd class="from" style="margin-top: 10px;margin-bottom: 10px"></dd>
+	
+	<a rel="external" href="myscore_statist.html" class="glyphicon glyphicon-stats" style="margin-left: 15px"> 我的活动学分绩统计</a> 
+	<div class="pull-right" >
+		<a rel="external" href="myscore_statist.html" class="glyphicon glyphicon-chevron-right" style="margin-right: 15px"></a>
+	</div>
+	<dd class="from" style="margin-top: 10px;margin-bottom: 10px"></dd>
+	<a rel="external" href="myreport.html" class="glyphicon glyphicon-file" style="margin-left: 15px"> 我的素质报告单</a> 
+	<div class="pull-right" >
+		<a rel="external" href="myreport.html" class="glyphicon glyphicon-chevron-right" style="margin-right: 15px"></a>
+	</div>
+	<dd class="from" style="margin-top: 10px"></dd>
+
+	<div style="height: 70px;"></div>
+</body>
+
+<footer> 
+<nav class="navbar  navbar-default navbar-fixed-bottom text-center">
+  	<div class="nav navbar-nav footer"> 	
+		<div class="footer-menu-left">
+			<a rel="external" href="signinAndup.html"><span class="glyphicon glyphicon-pencil" style="color:#999;"></span></a>
+			<h4 "><a rel="external" href="signinAndup.html" style="color: #999;">签报</a></h4>
+		</div>
+		
+		<div class="footer-menu">
+			<a rel="external" href="signupAlready.html"><span class="glyphicon glyphicon-tasks" style="color:#999;"></span></a>
+			<h4 "><a rel="external" href="signupAlready.html" style="color: #999;">已报名</a></h4>
+		</div>
+				
+		<div class="footer-menu">
+			<a rel="external" href="joinAlready.html"><span class="glyphicon glyphicon-check" style="color:#999;"></span></a>
+			<h4 "><a rel="external" href="joinAlready.html" style="color: #999;">已参加</a></h4>
+		</div>
+				
+		<div class="footer-menu">
+			<a rel="external" href="message.html"><span class="glyphicon glyphicon-envelope" style="color:#999;"></span></a>
+			<h4 "><a rel="external" href="message.html" style="color: #999;">消息</a></h4>
+		</div>
+		
+		<div class="footer-menu-right">
+			<a rel="external" href="myinfo.html"><span class="glyphicon glyphicon-user" style="color:#337AB7;"></span></a>
+			<h4 "><a rel="external" href="myinfo.html" style="color: #337AB7;">我的</a></h4>
+		</div>		
+		
+  	</div>
+</nav>
+</footer>
+
+</html>

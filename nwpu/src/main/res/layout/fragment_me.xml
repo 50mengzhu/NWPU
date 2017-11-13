@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@color/activity_bg_color" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="18dp"
+                android:background="@color/activity_bg_color"
+                android:visibility="visible" />
+
+            <LinearLayout
+                android:id="@+id/login_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.0"
+                android:background="@drawable/left_drawer_item_bg"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingBottom="10.0dip"
+                android:paddingTop="10.0dip"
+                android:visibility="gone" >
+
+                <ImageView
+                    android:id="@+id/avatar"
+                    android:layout_width="@dimen/avatar_size_big"
+                    android:layout_height="@dimen/avatar_size_big"
+                    android:layout_marginLeft="15.0dip"
+                    android:layout_marginRight="15.0dip"
+                    android:background="@drawable/round_avatar_bg"
+                    android:padding="1.0dip"
+                    android:src="@drawable/ic_defaut_headimg" />
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:id="@+id/user_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="2dp"
+                        android:ellipsize="end"
+                        android:singleLine="true"
+                        android:textColor="@color/left_drawer_user_name"
+                        android:textSize="17.0sp" />
+
+                    <TextView
+                        android:id="@+id/user_schoolnum"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/user_name"
+                        android:ellipsize="end"
+                        android:singleLine="true"
+                        android:textColor="@color/left_drawer_user_schoolnum"
+                        android:textSize="15.0sp" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/logout_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.0"
+                android:background="@drawable/left_drawer_item_bg"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingBottom="10.0dip"
+                android:paddingTop="10.0dip"
+                android:visibility="visible" >
+
+                <ImageView
+                    android:layout_width="@dimen/avatar_size_big"
+                    android:layout_height="@dimen/avatar_size_big"
+                    android:layout_marginLeft="25.0dip"
+                    android:layout_marginRight="16.0dip"
+                    android:background="@drawable/round_avatar_bg"
+                    android:padding="1.0dip"
+                    android:src="@drawable/default_round_head" />
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:id="@+id/tv_tip1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="2dp"
+                        android:text="@string/left_drawer_no_login_tip1"
+                        android:textColor="@color/left_drawer_no_login_tip_text"
+                        android:textSize="11.0sp" />
+
+                    <TextView
+                        android:id="@+id/tv_tip2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_tip1"
+                        android:layout_marginBottom="5dp"
+                        android:text="@string/left_drawer_no_login_tip2"
+                        android:textColor="@color/left_drawer_no_login_tip_text"
+                        android:textSize="11.0sp" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="18dp"
+                android:background="@color/activity_bg_color"
+                android:visibility="visible" />
+
+            <RelativeLayout
+                android:id="@+id/rl_mystatus"
+                style="@style/left_drawer_item_layout"
+                android:visibility="visible" >
+
+                <ImageView
+                    android:id="@+id/iv_mystauts"
+                    android:layout_width="@dimen/menu_icon"
+                    android:layout_height="@dimen/menu_icon"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="16.0dip"
+                    android:src="@drawable/ic_mystatus" />
+
+                <TextView
+                    style="@style/left_drawer_item_text"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/iv_mystauts"
+                    android:text="@string/left_drawer_item_mystatus" />
+            </RelativeLayout>
+
+            <View style="@style/tab_me_item" />
+
+            <RelativeLayout
+                android:id="@+id/rl_mymsg"
+                style="@style/left_drawer_item_layout"
+                android:visibility="visible" >
+
+                <ImageView
+                    android:id="@+id/iv_mymsg"
+                    android:layout_width="@dimen/menu_icon"
+                    android:layout_height="@dimen/menu_icon"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="16.0dip"
+                    android:src="@drawable/ic_mymsg" />
+
+                <TextView
+                    style="@style/left_drawer_item_text"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/iv_mymsg"
+                    android:text="@string/left_drawer_item_mymsg" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="18dp"
+                android:background="@color/activity_bg_color"
+                android:visibility="visible" />
+
+            <RelativeLayout
+                android:id="@+id/feedback_btn"
+                style="@style/left_drawer_item_layout"
+                android:visibility="visible" >
+
+                <ImageView
+                    android:id="@+id/iv_feedback"
+                    android:layout_width="@dimen/menu_icon"
+                    android:layout_height="@dimen/menu_icon"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="16.0dip"
+                    android:src="@drawable/ic_feedback" />
+
+                <TextView
+                    style="@style/left_drawer_item_text"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/iv_feedback"
+                    android:text="@string/left_drawer_item_feedback" />
+            </RelativeLayout>
+
+            <View
+                style="@style/tab_me_item"
+                android:visibility="gone" />
+
+            <RelativeLayout
+                android:id="@+id/shareapp_btn"
+                style="@style/left_drawer_item_layout"
+                android:visibility="gone" >
+
+                <ImageView
+                    android:id="@+id/iv_share"
+                    android:layout_width="@dimen/menu_icon"
+                    android:layout_height="@dimen/menu_icon"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="16.0dip"
+                    android:src="@drawable/ic_share" />
+
+                <TextView
+                    style="@style/left_drawer_item_text"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/iv_share"
+                    android:text="@string/left_drawer_item_shareapp" />
+            </RelativeLayout>
+
+            <View style="@style/tab_me_item" />
+
+            <RelativeLayout
+                android:id="@+id/setting_btn"
+                style="@style/left_drawer_item_layout"
+                android:visibility="visible" >
+
+                <ImageView
+                    android:id="@+id/iv_setting"
+                    android:layout_width="@dimen/menu_icon"
+                    android:layout_height="@dimen/menu_icon"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="16.0dip"
+                    android:src="@drawable/ic_setting" />
+
+                <TextView
+                    android:id="@+id/tv_setting"
+                    style="@style/left_drawer_item_text"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/iv_setting"
+                    android:text="@string/left_drawer_item_setting" />
+
+                <TextView
+                    android:id="@+id/setting_redpoint"
+                    style="@style/left_drawer_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="25.0dip"
+                    android:layout_marginTop="6.0dip"
+                    android:layout_toRightOf="@+id/tv_setting"
+                    android:background="@drawable/left_drawer_count_bg"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <View style="@style/tab_me_item" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_view"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/half_transparent" >
+
+    <LinearLayout
+        android:id="@+id/ll_menu"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="15dp"
+        android:background="@drawable/abc_popup_background_mtrl_mult"
+        android:orientation="horizontal"
+        android:paddingBottom="15dp"
+        android:paddingLeft="25dp"
+        android:paddingTop="15dp" >
+
+        <ProgressBar
+            android:id="@+id/loading_process_dialog_progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:indeterminate="false" />
+
+        <TextView
+            android:id="@+id/tv_waiting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="left"
+            android:text="请稍后..."
+            android:textColor="@color/setting_item_text"
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</RelativeLayout>

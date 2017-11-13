@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_view"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:app1="http://schemas.android.com/apk/res/com.zyw.nwpu"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/activity_bg_color" >
+
+    <com.zyw.nwpu.base.TitleBar
+        android:id="@+id/head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RelativeLayout
+        android:id="@+id/rl_main"
+        style="@style/detail_activity"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/head" >
+
+        <FrameLayout
+            style="@style/detail_activity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@+id/tool_bar" >
+
+            <WebView
+                android:id="@+id/wv_detail"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="visible" />
+
+            <ProgressBar
+                android:id="@+id/ss_htmlprogessbar"
+                style="@android:style/Widget.Holo.ProgressBar.Horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:visibility="visible" />
+        </FrameLayout>
+
+        <include
+            android:id="@+id/tool_bar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            layout="@layout/tool_bar" />
+    </RelativeLayout>
+
+</RelativeLayout>
